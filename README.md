@@ -1,4 +1,4 @@
-# Hi, I'm Adrian 👋
+# Hi, I'm Adrian 
 
 IT Support | Computer Science and Engineering Grad | Building hands-on infrastructure labs
 
@@ -7,10 +7,8 @@ IT Support | Computer Science and Engineering Grad | Building hands-on infrastru
 ## 🎓 Certifications
 
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/)
-[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B%20(Scheduled)-lightgrey?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/)
 
 - **CompTIA A+** — Credential ID: `9faecca3-bd49-403a-b808-e7afa4931575`
-- **CompTIA Network+** — *Scheduled*
 
 ---
 
