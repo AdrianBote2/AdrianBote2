@@ -14,6 +14,9 @@ IT Support | Computer Science and Engineering Grad | Building hands-on infrastru
 
 ## 🖥️ Projects
 
+### 🎫 [Ticketing System](https://github.com/AdrianBote2/ticketing-system)
+Deployed and configured a help desk ticketing system — ticket workflows, prioritization, and resolution tracking.
+
 ### 🗂️ [Active Directory Lab](https://github.com/AdrianBote2/active-directory-lab)
 Built and documented a functional Active Directory environment on VirtualBox — user/group management, GPOs, and PowerShell scripting.
 
