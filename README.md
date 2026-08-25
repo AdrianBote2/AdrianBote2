@@ -1,5 +1,7 @@
 # Hi, I'm Adrian 
-IT Support | Computer Science and Engineering Grad | Building hands-on infrastructure labs
+---
+## 👋 About Me
+Looking to start my career in IT Support / Help Desk. I enjoy troubleshooting problems and helping people get back up and running, and I've been building hands-on labs like Active Directory, networking, and ticketing workflows to sharpen the real-world skills the role requires.
 
 ---
 
