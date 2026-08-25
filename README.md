@@ -3,7 +3,7 @@ IT Support | Computer Science and Engineering Grad | Building hands-on infrastru
 
 ---
 
-## 🎓 Education
+## 📜 Education
 **University of California, Merced**
 B.S. in Computer Science and Engineering — May 2026
 
