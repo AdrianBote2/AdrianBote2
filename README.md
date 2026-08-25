@@ -32,4 +32,4 @@ Cisco Packet Tracer topologies covering switching, routing, and subnetting funda
 ## 🛠️ Currently
 - 🔭 Studying for CompTIA Network+
 - 🌱 Working through Cisco Networking Basics + Jeremy's IT Lab
-- 📫 Reach me: [LinkedIn](https://linkedin.com/in/abotello2) under projects
+- 📫 Reach me: [LinkedIn](https://linkedin.com/in/abotello2)
