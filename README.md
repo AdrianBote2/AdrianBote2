@@ -15,6 +15,9 @@ B.S. in Computer Science and Engineering — May 2026
 [![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-red?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/)
 
 [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-blue?style=for-the-badge&logo=comptia&logoColor=white)](https://www.credly.com/)
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B%20In%20Progress-lightgrey?style=for-the-badge&logo=comptia&logoColor=white)](https://www.comptia.org/certifications/security)
+
 ---
 
 ## 🖥️ Projects
